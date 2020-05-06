@@ -1,0 +1,6 @@
+tanu
+git
+git config --global user.name "tanu219"
+git config --global user.email tanu219singh@gmail.com
+git config --list
+exit
